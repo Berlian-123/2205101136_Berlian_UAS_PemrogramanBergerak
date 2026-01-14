@@ -34,7 +34,6 @@ Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Kami menyarank
 Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, Anda dapat menghubungi kami melalui:
 
 *   **Email:** prisilberlin@gmail.com
-*   **Repository:** [https://github.com/username-kamu/LaporBukti-UAS-Android](https://github.com/Berlin-123/LaporBukti-UAS-Android)
 
 ---
 *Aplikasi ini dibuat sebagai proyek akademik untuk memenuhi Tugas Akhir Mata Kuliah Pemrograman Bergerak.*
