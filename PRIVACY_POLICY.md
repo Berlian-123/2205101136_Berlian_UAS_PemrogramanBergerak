@@ -1,38 +1,40 @@
-# Privacy Policy for LaporBukti
+# Kebijakan Privasi LaporBukti
 
-**Last updated: January 15, 2026**
+**Terakhir diperbarui: 15 Januari 2026**
 
-This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda saat menggunakan aplikasi LaporBukti.
 
-## Interpretation and Definitions
+## Informasi yang Kami Kumpulkan
 
-*   **Application** means the software program provided by the Company downloaded by You on any electronic device, named LaporBukti.
-*   **Country** refers to: Indonesia.
-*   **Device** means any device that can access the Service such as a computer, a cellphone, or a digital tablet.
-*   **Personal Data** is any information that relates to an identified or identifiable individual.
-*   **Service** refers to the Application.
+Aplikasi ini dirancang dengan prinsip **Offline-First**, yang berarti sebagian besar data disimpan secara lokal di perangkat Anda. Namun, kami memerlukan akses ke fitur tertentu agar aplikasi dapat berjalan optimal:
 
-## Collecting and Using Your Personal Data
+### 1. Kamera dan Galeri Foto
+Aplikasi membutuhkan izin akses ke kamera dan penyimpanan (galeri) Anda.
+*   **Tujuan:** Memungkinkan Anda mengambil atau memilih foto bukti kerusakan fasilitas untuk dilampirkan dalam laporan.
+*   **Penyimpanan:** Foto disimpan secara lokal di perangkat Anda. Kami tidak mengunggah foto tersebut ke server cloud eksternal secara otomatis.
 
-### Types of Data Collected
+### 2. Data Lokasi (GPS)
+Aplikasi mungkin meminta akses ke lokasi perangkat Anda (GPS).
+*   **Tujuan:** Untuk menandai titik koordinat lokasi kejadian secara akurat saat Anda membuat laporan.
+*   **Penggunaan:** Fitur ini hanya aktif saat Anda menekan tombol "Ambil Lokasi".
 
-**1. Camera and Photos**
-Our Application may require access to your device's camera and photo gallery to allow you to attach evidence images to your reports. These images are stored locally on your device.
+## Penggunaan Data
+Data yang dikumpulkan hanya digunakan untuk fungsionalitas aplikasi semata, yaitu:
+*   Menyimpan detail laporan (Judul, Deskripsi, Kategori, Foto, Lokasi) di database lokal (Room Database).
+*   Menampilkan riwayat laporan Anda.
+*   Memproses status laporan (jika digunakan oleh Admin).
 
-**2. Location Data**
-We may use Your location data (GPS) to pinpoint the exact location of the facility damage being reported. This feature is optional and only active when You explicitly tap the "Get Location" button.
+## Keamanan Data
+Kami sangat menghargai privasi Anda. Karena aplikasi ini bekerja secara offline, data pribadi Anda tetap berada di dalam kendali Anda di perangkat masing-masing, kecuali Anda secara sadar membagikan data tersebut melalui fitur ekspor atau jika aplikasi dikembangkan lebih lanjut dengan sinkronisasi server di masa depan.
 
-### Use of Your Personal Data
-The Company may use Personal Data for the following purposes:
-*   To provide and maintain our Service.
-*   To manage Your requests: To attend and manage Your requests to Us.
+## Perubahan Kebijakan Privasi
+Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Kami menyarankan Anda untuk meninjau halaman ini secara berkala untuk mengetahui setiap perubahan.
 
-### Retention of Your Personal Data
-The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. Since this is an offline-first application, most data resides solely on your local device storage.
+## Hubungi Kami
+Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, Anda dapat menghubungi kami melalui:
 
-## Contact Us
+*   **Email:** prisilberlin@gmail.com
+*   **Repository:** [https://github.com/username-kamu/LaporBukti-UAS-Android](https://github.com/Berlin-123/LaporBukti-UAS-Android)
 
-If you have any questions about this Privacy Policy, You can contact us:
-
-*   By email: prisilberlin@gmail.com
-*   By visiting this page on our website: 
+---
+*Aplikasi ini dibuat sebagai proyek akademik untuk memenuhi Tugas Akhir Mata Kuliah Pemrograman Bergerak.*
